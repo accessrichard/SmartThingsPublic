@@ -1,3 +1,5 @@
+# Following Instructions to get Nest talking to Smartthings.
+
 # SmartThings Public GitHub Repo
 
 An official list of SmartApps and Device Types from SmartThings.
